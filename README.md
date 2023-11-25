@@ -11,7 +11,8 @@
 ### Software Architecutere Skip
 - Type of Software Service [SAAS, PAAS, LAAS]
 - Type of Disaster Recovery (DR) -> [Hot, Cold, Warm]
-
+- 12 Factor
+- 
 ### Data Skill
 - Data Analytics
 
@@ -83,6 +84,9 @@
 - Raspberry PI 3
 - NVR (IMOU)
 - CCTV Camera (IMOU)
+
+### Design for Biz
+- Customer Journey
 
 ### Gamming
 - PS5
