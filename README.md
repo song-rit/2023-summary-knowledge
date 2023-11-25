@@ -1,11 +1,11 @@
 # 2023-summary-knowledge
 
 ### Tecnical Design Skill
-- Design Architecuture by Draw.IO
-- Design Sequence Diagram by PlantUML
-- Design ER Diagram by Draw.IO
-- Desing No-SQL Structure By Draw.IO
-- Design API Spec by Swagger YAML format
+- Design Architecuture with Draw.IO
+- Design Sequence Diagram with PlantUML
+- Design ER Diagram with Draw.IO
+- Desing No-SQL Structure with Draw.IO
+- Design API Spec with Swagger YAML format
 
 ### Data
 - Learn Data Analytics
