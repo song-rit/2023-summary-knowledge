@@ -84,6 +84,16 @@
 - Raspberry PI 3
 - NVR (IMOU)
 - CCTV Camera (IMOU)
+- Deco (Router)
+- MikroTik
+- TCP Internet Load Banace
+
+### IOT
+- Smart Plug
+
+### AI
+- Chat GPT
+- Bard by Google
 
 ### Design for Biz
 - Customer Journey
