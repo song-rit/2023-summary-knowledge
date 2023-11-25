@@ -12,7 +12,7 @@
 - Type of Software Service [SAAS, PAAS, LAAS]
 - Type of Disaster Recovery (DR) -> [Hot, Cold, Warm]
 - 12 Factor
-- 
+  
 ### Data Skill
 - Data Analytics
 
