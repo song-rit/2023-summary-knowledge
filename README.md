@@ -8,6 +8,10 @@
 - Design API Spec with Swagger YAML format
 - DDD only Learning workshop
 
+### Software Architecutere Skip
+- Type of Software Service [SAAS, PAAS, LAAS]
+- Type of Disaster Recovery (DR) -> [Hot, Cold, Warm]
+
 ### Data Skill
 - Data Analytics
 
@@ -35,6 +39,15 @@
 ### Firebase 
 - Fire Store Database
 
+### DNS Provider
+- Name.com
+
+### Caching Cloud Server
+- CloudFlare
+
+### Tools For Mapping Public IP for Router
+- NO-IP
+
 ### Cloud Computing
 - Digital Ocean Cloud
 - Nipa Cloud
@@ -52,7 +65,11 @@
 - EC2
 
 ### Private Cloud
-- Setup Private Cloud 
+- Setup Private Cloud
+
+### Infra as code [IaC]
+- Ansible
+- Terraform
 
 ### Tend technology
 - Low Code only Explore [Outsystem, Mendix]
@@ -60,3 +77,13 @@
 ### Report Tools
 - Power BI
 - Tableau
+
+### Hardware
+- NUC Mini Computer
+- Raspberry PI 3
+- NVR (IMOU)
+- CCTV Camera (IMOU)
+
+### Gamming
+- PS5
+- Nintendo Switch
