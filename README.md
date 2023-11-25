@@ -98,6 +98,9 @@
 ### Design for Biz
 - Customer Journey
 
+### Present Tools
+- Canvas
+
 ### Gamming
 - PS5
 - Nintendo Switch
