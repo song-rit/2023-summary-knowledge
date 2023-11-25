@@ -101,3 +101,6 @@
 ### Gamming
 - PS5
 - Nintendo Switch
+
+### English
+- G2 by Globiz
